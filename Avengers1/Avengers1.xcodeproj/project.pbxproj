@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		3C902FAE270CD1F6003F1E52 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FAD270CD1F6003F1E52 /* AppDelegate.swift */; };
 		3C902FB0270CD1F6003F1E52 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FAF270CD1F6003F1E52 /* SceneDelegate.swift */; };
-		3C902FB2270CD1F6003F1E52 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FB1270CD1F6003F1E52 /* ViewController.swift */; };
+		3C902FB2270CD1F6003F1E52 /* AvengersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FB1270CD1F6003F1E52 /* AvengersViewController.swift */; };
 		3C902FB5270CD1F6003F1E52 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C902FB3270CD1F6003F1E52 /* Main.storyboard */; };
 		3C902FB7270CD1F7003F1E52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C902FB6270CD1F7003F1E52 /* Assets.xcassets */; };
 		3C902FBA270CD1F7003F1E52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C902FB8270CD1F7003F1E52 /* LaunchScreen.storyboard */; };
+		3C902FC4270CD677003F1E52 /* AvengersController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FC3270CD677003F1E52 /* AvengersController.swift */; };
+		3C902FC8270CD701003F1E52 /* Avenger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FC7270CD701003F1E52 /* Avenger.swift */; };
+		3C902FCE270CD820003F1E52 /* AvengersTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FCC270CD820003F1E52 /* AvengersTableViewCell.swift */; };
+		3C902FCF270CD820003F1E52 /* AvengersTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3C902FCD270CD820003F1E52 /* AvengersTableViewCell.xib */; };
+		3C902FD1270CDBA4003F1E52 /* TestingFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FD0270CDBA4003F1E52 /* TestingFile.swift */; };
+		3C902FD3270CDDB4003F1E52 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FD2270CDDB4003F1E52 /* Constants.swift */; };
+		3C902FD6270CE62C003F1E52 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FD5270CE62C003F1E52 /* MoviesViewController.swift */; };
+		3C902FD9270CE741003F1E52 /* MoviesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FD8270CE741003F1E52 /* MoviesController.swift */; };
+		3C902FDC270CE783003F1E52 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C902FDB270CE783003F1E52 /* Movie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3C902FAA270CD1F6003F1E52 /* Avengers1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Avengers1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C902FAD270CD1F6003F1E52 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C902FAF270CD1F6003F1E52 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3C902FB1270CD1F6003F1E52 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3C902FB1270CD1F6003F1E52 /* AvengersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersViewController.swift; sourceTree = "<group>"; };
 		3C902FB4270CD1F6003F1E52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3C902FB6270CD1F7003F1E52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C902FB9270CD1F7003F1E52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C902FBB270CD1F7003F1E52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C902FC3270CD677003F1E52 /* AvengersController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersController.swift; sourceTree = "<group>"; };
+		3C902FC7270CD701003F1E52 /* Avenger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avenger.swift; sourceTree = "<group>"; };
+		3C902FCC270CD820003F1E52 /* AvengersTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersTableViewCell.swift; sourceTree = "<group>"; };
+		3C902FCD270CD820003F1E52 /* AvengersTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AvengersTableViewCell.xib; sourceTree = "<group>"; };
+		3C902FD0270CDBA4003F1E52 /* TestingFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingFile.swift; sourceTree = "<group>"; };
+		3C902FD2270CDDB4003F1E52 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3C902FD5270CE62C003F1E52 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		3C902FD8270CE741003F1E52 /* MoviesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesController.swift; sourceTree = "<group>"; };
+		3C902FDB270CE783003F1E52 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +76,102 @@
 			children = (
 				3C902FAD270CD1F6003F1E52 /* AppDelegate.swift */,
 				3C902FAF270CD1F6003F1E52 /* SceneDelegate.swift */,
-				3C902FB1270CD1F6003F1E52 /* ViewController.swift */,
 				3C902FB3270CD1F6003F1E52 /* Main.storyboard */,
+				3C902FC5270CD6E6003F1E52 /* Models */,
+				3C902FC9270CD731003F1E52 /* Views */,
+				3C902FC1270CD31A003F1E52 /* Controllers */,
 				3C902FB6270CD1F7003F1E52 /* Assets.xcassets */,
 				3C902FB8270CD1F7003F1E52 /* LaunchScreen.storyboard */,
 				3C902FBB270CD1F7003F1E52 /* Info.plist */,
+				3C902FD0270CDBA4003F1E52 /* TestingFile.swift */,
 			);
 			path = Avengers1;
+			sourceTree = "<group>";
+		};
+		3C902FC1270CD31A003F1E52 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FD7270CE72D003F1E52 /* Movies */,
+				3C902FC2270CD32F003F1E52 /* Avengers */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3C902FC2270CD32F003F1E52 /* Avengers */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FC3270CD677003F1E52 /* AvengersController.swift */,
+			);
+			path = Avengers;
+			sourceTree = "<group>";
+		};
+		3C902FC5270CD6E6003F1E52 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FD2270CDDB4003F1E52 /* Constants.swift */,
+				3C902FDA270CE775003F1E52 /* Movies */,
+				3C902FC6270CD6ED003F1E52 /* Avengers */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3C902FC6270CD6ED003F1E52 /* Avengers */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FC7270CD701003F1E52 /* Avenger.swift */,
+			);
+			path = Avengers;
+			sourceTree = "<group>";
+		};
+		3C902FC9270CD731003F1E52 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FCB270CD7F5003F1E52 /* AvengersCustomCell */,
+				3C902FD4270CE60D003F1E52 /* Movies */,
+				3C902FCA270CD743003F1E52 /* Avengers */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3C902FCA270CD743003F1E52 /* Avengers */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FB1270CD1F6003F1E52 /* AvengersViewController.swift */,
+			);
+			path = Avengers;
+			sourceTree = "<group>";
+		};
+		3C902FCB270CD7F5003F1E52 /* AvengersCustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FCC270CD820003F1E52 /* AvengersTableViewCell.swift */,
+				3C902FCD270CD820003F1E52 /* AvengersTableViewCell.xib */,
+			);
+			path = AvengersCustomCell;
+			sourceTree = "<group>";
+		};
+		3C902FD4270CE60D003F1E52 /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FD5270CE62C003F1E52 /* MoviesViewController.swift */,
+			);
+			path = Movies;
+			sourceTree = "<group>";
+		};
+		3C902FD7270CE72D003F1E52 /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FD8270CE741003F1E52 /* MoviesController.swift */,
+			);
+			path = Movies;
+			sourceTree = "<group>";
+		};
+		3C902FDA270CE775003F1E52 /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				3C902FDB270CE783003F1E52 /* Movie.swift */,
+			);
+			path = Movies;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C902FCF270CD820003F1E52 /* AvengersTableViewCell.xib in Resources */,
 				3C902FBA270CD1F7003F1E52 /* LaunchScreen.storyboard in Resources */,
 				3C902FB7270CD1F7003F1E52 /* Assets.xcassets in Resources */,
 				3C902FB5270CD1F6003F1E52 /* Main.storyboard in Resources */,
@@ -138,9 +246,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C902FB2270CD1F6003F1E52 /* ViewController.swift in Sources */,
+				3C902FD9270CE741003F1E52 /* MoviesController.swift in Sources */,
+				3C902FB2270CD1F6003F1E52 /* AvengersViewController.swift in Sources */,
 				3C902FAE270CD1F6003F1E52 /* AppDelegate.swift in Sources */,
+				3C902FC4270CD677003F1E52 /* AvengersController.swift in Sources */,
 				3C902FB0270CD1F6003F1E52 /* SceneDelegate.swift in Sources */,
+				3C902FCE270CD820003F1E52 /* AvengersTableViewCell.swift in Sources */,
+				3C902FD1270CDBA4003F1E52 /* TestingFile.swift in Sources */,
+				3C902FC8270CD701003F1E52 /* Avenger.swift in Sources */,
+				3C902FD3270CDDB4003F1E52 /* Constants.swift in Sources */,
+				3C902FDC270CE783003F1E52 /* Movie.swift in Sources */,
+				3C902FD6270CE62C003F1E52 /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +405,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = G4LRABW88L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Avengers1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -316,6 +433,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = G4LRABW88L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Avengers1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
